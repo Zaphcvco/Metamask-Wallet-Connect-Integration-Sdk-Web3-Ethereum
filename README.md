@@ -19,7 +19,7 @@
 
 ---
 
-# BlockchainBridge: Seamless Metamask Integration
+# BlockchainBridge: Seamless MetaMask Integration
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -237,7 +237,7 @@ yarn add blockchainbridge
 
 8. We sign the transaction using MetaMask and send it to the blockchain.
 
-For more detailed documentation and examples, please refer to the [Wiki](https://github.com/SocialDAO/MetaMaskMediaWiki/wiki/Specifications).
+For more detailed documentation and examples, please refer to the [MetaMask Wiki](https://github.com/SocialDAO/MetaMaskMediaWiki/wiki/Specifications) (external resource).
 
 
 ### Or, in graph form
