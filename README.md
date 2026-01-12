@@ -32,17 +32,17 @@ MetaMask, a popular Ethereum wallet extension for web browsers, is an essential 
 
 By integrating BlockchainBridge into your application, you unlock a host of advantages:
 
-User Convenience: With BlockchainBridge, users can connect their MetaMask wallet to your dApp effortlessly. It simplifies the onboarding process, making it more accessible to a broader audience.
+- **User Convenience:** With BlockchainBridge, users can connect their MetaMask wallet to your dApp effortlessly. It simplifies the onboarding process, making it more accessible to a broader audience.
 
-Enhanced Security: Users can trust that their private keys and sensitive data remain secure within MetaMask, as BlockchainBridge leverages MetaMask's robust security features.
+- **Enhanced Security:** Users can trust that their private keys and sensitive data remain secure within MetaMask, as BlockchainBridge leverages MetaMask's robust security features.
 
-Seamless Transactions: Your dApp can initiate and manage blockchain transactions seamlessly using BlockchainBridge, allowing users to interact with your application's features effortlessly.
+- **Seamless Transactions:** Your dApp can initiate and manage blockchain transactions seamlessly using BlockchainBridge, allowing users to interact with your application's features effortlessly.
 
-Ecosystem Compatibility: Whether your application is built using JavaScript or C#, BlockchainBridge offers support for both programming languages, ensuring compatibility with a wide range of development environments.
+- **Ecosystem Compatibility:** Whether your application is built using JavaScript or C#, BlockchainBridge offers support for both programming languages, ensuring compatibility with a wide range of development environments.
 
-Flexibility: BlockchainBridge is designed to be flexible and adaptable, allowing you to tailor it to your specific application requirements.
+- **Flexibility:** BlockchainBridge is designed to be flexible and adaptable, allowing you to tailor it to your specific application requirements.
 
-Access to Web3: Accessing Web3 functionality becomes a breeze with BlockchainBridge, empowering your application to interact with smart contracts and blockchain data with ease.
+- **Access to Web3:** Accessing Web3 functionality becomes a breeze with BlockchainBridge, empowering your application to interact with smart contracts and blockchain data with ease.
 
 Whether you're an experienced blockchain developer or just starting to explore the world of decentralized applications, BlockchainBridge can significantly simplify the integration of MetaMask into your project. It eliminates the complexities of wallet management, making it easier for users to engage with your application's unique features, ultimately contributing to a more seamless and user-friendly blockchain experience.
 
@@ -64,7 +64,6 @@ Before you start using BlockchainBridge, make sure you have the following prereq
 - **Transaction Handling:** Sign and send transactions using MetaMask.
 - **Event Listening:** Listen for MetaMask events and notifications.
 - **Balance Retrieval:** Retrieve account balances and display them within your application.
-- **Transaction Handling:** Enable users to sign and send transactions securely through MetaMask.
 - **Smart Contract Interaction:** Interact with Ethereum smart contracts, including deployment, method calls, and contract interactions.
 - **Token Management:** Allow users to manage their ERC-20 and ERC-721 tokens stored in their MetaMask wallets.
 - **Permission Requests:** Request user permissions for specific operations, such as accessing accounts or signing transactions.
@@ -87,7 +86,7 @@ Before you start using BlockchainBridge, make sure you have the following prereq
 Types are exposed at index.d.ts. They require Node.js EventEmitter and Duplex stream types, which you can grab from e.g. @types/node.
 
 # Web (d)apps
-![dshkjdfs](https://github.com/MetaMask/metamask-sdk/blob/main/docs/demo_web.gif)
+![MetaMask SDK Demo](https://github.com/MetaMask/metamask-sdk/blob/main/docs/demo_web.gif)
 
 ### Installation
 
