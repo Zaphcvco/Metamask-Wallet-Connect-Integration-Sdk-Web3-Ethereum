@@ -22,7 +22,6 @@
 # BlockchainBridge: Seamless Metamask Integration
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![0.3.1](https://badge.fury.io/js/btcsnap.png)](https://badge.fury.io/js/btcsnap)
 
 ## Overview
 
@@ -44,7 +43,7 @@ By integrating BlockchainBridge into your application, you unlock a host of adva
 
 - **Access to Web3:** Accessing Web3 functionality becomes a breeze with BlockchainBridge, empowering your application to interact with smart contracts and blockchain data with ease.
 
-Whether you're an experienced blockchain developer or just starting to explore the world of decentralized applications, BlockchainBridge can significantly simplify the integration of MetaMask into your project. It eliminates the complexities of wallet management, making it easier for users to engage with your application's unique features, ultimately contributing to a more seamless and user-friendly blockchain experience.
+Whether you're an experienced blockchain developer or just starting to explore decentralized applications, BlockchainBridge can significantly simplify the integration of MetaMask into your project. It eliminates the complexities of wallet management, making it easier for users to engage with your application's unique features, ultimately contributing to a more seamless and user-friendly blockchain experience.
 
 
 ## Getting Started
@@ -83,7 +82,7 @@ Before you start using BlockchainBridge, make sure you have the following prereq
 
 
 ### Types
-Types are exposed at index.d.ts. They require Node.js EventEmitter and Duplex stream types, which you can grab from e.g. @types/node.
+Types are exposed at index.d.ts. They require Node.js EventEmitter and Duplex stream types, which you can install from, e.g., @types/node.
 
 # Web (d)apps
 ![MetaMask SDK Demo](https://github.com/MetaMask/metamask-sdk/blob/main/docs/demo_web.gif)
@@ -219,7 +218,7 @@ yarn add blockchainbridge
   }
   ```
 
-### In this C# code:
+### In this C# example:
 
 
 1. We import the `BlockchainBridge` library.
