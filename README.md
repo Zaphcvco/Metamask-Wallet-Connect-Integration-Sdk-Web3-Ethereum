@@ -24,7 +24,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![0.3.1](https://badge.fury.io/js/btcsnap.png)](https://badge.fury.io/js/btcsnap)
 
-## Overwiev
+## Overview
 
 BlockchainBridge is a versatile and robust library crafted to streamline the incorporation of MetaMask into your blockchain applications. Whether you're in the process of developing a cutting-edge DeFi platform, a vibrant NFT marketplace, or any other decentralized application (dApp), this library offers a seamless and user-friendly solution for interfacing with the MetaMask wallet.
 
